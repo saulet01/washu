@@ -1,0 +1,44 @@
+@font-face {
+    font-family: appleGaramond;
+    src: url('../font/applegaramond.ttf');
+}
+
+.navbar {
+    background-color: #A51417;
+}
+
+.jumbotron {
+    background-color: #ffffff;
+}
+
+.authorization {
+    border: 0.5px solid #A51417;
+    padding: 4%;
+    margin-top: 8%;
+}
+
+.posts {
+    border: 0.5px solid #A51417;
+    padding: 2%;
+}
+
+.jumbotron {
+    background-image: url('../img/jumbotron22.jpg');
+    background-size: cover;
+    min-height: 50vh;
+}
+
+.jumb-text {
+    color: #ffffff;
+    text-shadow: 4px 5px 8px #000000;
+    font-family: appleGaramond;
+}
+
+.washu {
+    border: 4px solid #ffffff;
+    width: 1000px;
+}
+
+.category {
+    color: #000000;
+}
